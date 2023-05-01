@@ -1,0 +1,16 @@
+.btn-main, .btn-main-s {
+  background-color: #0075FF;
+  color: white;
+  padding: 0.25rem 1rem;
+  border-radius: 0.25rem;
+  border: none;
+  border: solid 1px #0075FF;
+}
+.btn-main:hover, .btn-main-s:hover {
+  background-color: white;
+  color: #0075FF;
+}
+.btn-main-s {
+  font-size: 0.75rem;
+  padding: 0.1rem 1rem;
+}/*# sourceMappingURL=index.css.map */
